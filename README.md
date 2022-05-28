@@ -12,6 +12,8 @@
   <p>chmod +x Recon.sh</p>
   <p>./Recon.sh *domain*</p>
   
+  insta: https://www.instagram.com/sud0.0veride/
+
   enjoy :)
   
   
