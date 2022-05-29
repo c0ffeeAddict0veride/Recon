@@ -9,6 +9,7 @@
   <h3>How to install</h3>
   
   <p>git clone https://github.com/c0ffeeAddict0veride/Recon</p>
+  <p>cd Recon</p>
   <p>chmod +x Recon.sh</p>
   <p>./Recon.sh *domain*</p>
   
